@@ -63,8 +63,8 @@ Using the Cosmic Tower (future availability), the user may change various paramt
 
 | Parameter       | Value               |
 |----------------|---------------------|
-| **Size (Fully Assembled)**       | 55.00 x 25.00 x 8.45 mm |
-| **Weight**     | 9 grams            |
+| **Size (Fully Assembled)**       | 55.00 x 25.00 x 12 mm |
+| **Weight**     | 10 grams            |
 
 ---
 *"Note that this Repository is new and is still under development. Please be patient as more information is soon to come!" - Cosmic Aerospace Technologies*
